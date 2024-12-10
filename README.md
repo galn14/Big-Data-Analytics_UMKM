@@ -74,8 +74,7 @@ pip install pandas matplotlib scikit-learn statsmodels tensorflow
 
 ## **Results and Insights**
 ### Customer Segmentation
-- Cluster 1 (VIP Customers): High frequency, high spending, low recency. Key drivers of revenue.
-- Cluster 2 (Dormant Customers): Low activity and spending. Target for reactivation campaigns.
+- Clustering and Segmentation.
 ### Revenue Trends
 - Total revenue.
 - Weekly trends reveal peak sales during certain weeks, allowing strategic planning.
